@@ -1,0 +1,6 @@
+numpy~=1.24
+aiohttp~=3.8
+scipy~=1.10
+sounddevice~=0.4
+pymongo[srv]~=4.4
+librosa~=0.10
