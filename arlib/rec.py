@@ -16,7 +16,7 @@ from time import time
 from abc import ABC, abstractmethod, abstractproperty
 import asyncio
 
-APPROX_SEGMENT_DURATION = 5.0 # Seconds
+APPROX_SEGMENT_DURATION = 60.0 # Seconds
 
 INSERT_FAILED_SESSION_DOC = 1
 INSERT_FAILED_SEGMENT_DOC = 2
